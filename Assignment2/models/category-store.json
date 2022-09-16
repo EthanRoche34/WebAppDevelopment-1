@@ -1,0 +1,20 @@
+{
+  "categoryCollection": [
+    {
+      "id": "ead25823-1f9f-4f2d-ad27-eb159dbaa5db",
+      "userid": "85cb59b6-4755-43b4-a467-f939e10e3e05",
+      "title": "Test",
+      "picture": "http://res.cloudinary.com/eroche/image/upload/v1619986813/dn3akpajirid83bkflib.png",
+      "date": "2021-05-02T20:20:12.925Z",
+      "games": [
+        {
+          "id": "5dbc57c9-3e6e-4ba7-a01b-0deab5644643",
+          "title": "Test2",
+          "developer": "Square",
+          "release": "2021-05-11",
+          "picture": "http://res.cloudinary.com/eroche/image/upload/v1619987072/hve02ulwfiisbkuvlcth.jpg"
+        }
+      ]
+    }
+  ]
+}
